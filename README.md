@@ -1,2 +1,4 @@
 # git_demo1
-Demo repo for git talk
+This is a demo repo for the DPRG git talk.
+
+You can add or change file here with no bad effects.
